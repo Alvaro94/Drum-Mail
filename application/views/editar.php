@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style_email.css" media="all">
   <p><h1><center>Editar Correo</center></h1></p>
       <br/>
 

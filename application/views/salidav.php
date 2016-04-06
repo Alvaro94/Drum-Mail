@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style_email.css" media="all">
 
 <p><br/></p>
 
