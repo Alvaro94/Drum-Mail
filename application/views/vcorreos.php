@@ -4,8 +4,8 @@
       <br/>
 
 
-      <a href="<?php echo base_url(); ?>correo/nuevo" class="btn btn-primary"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>Nuevo</a>
-      <a href="<?php echo base_url(); ?>enviar/send" class="btn btn-primary"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>Enviar</a>
+      <a href="<?php echo base_url(); ?>correo/nuevo" class="btn btn-primary"><span  aria-hidden="true"></span>Nuevo</a>
+      <a href="<?php echo base_url(); ?>enviar/send" class="btn btn-danger"><span  aria-hidden="true"></span>Enviar</a>
 
 
 
